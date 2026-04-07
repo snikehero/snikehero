@@ -10,6 +10,7 @@ I'm passionate about building things across the full hardware-software stack —
 
 - Working on **Industrial IoT** systems (sensors, protocols, real-time data)
 - Deepening my knowledge in **System Design** and **Networking**
+- AI: Mostly Claude with AI Agents, MCP and Skills
 
 ---
 
